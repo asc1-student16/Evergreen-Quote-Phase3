@@ -34,7 +34,7 @@ The biggest pain is that quote information is temporary and difficult to reuse. 
 -Implementing enterprise-scale optimizations such as multi-region deployments, advanced security controls, or disaster recovery solutions.
 -Performing extensive user interface redesign work.
 -Building a fully production-ready insurance platform. The goal is to demonstrate a working service and delivery pipeline.
-- 
+
 
 ## How will we know if it worked?
 -All required REST and GraphQL functionality operates as described in the engineering requirements.
@@ -44,5 +44,5 @@ The biggest pain is that quote information is temporary and difficult to reuse. 
 -Leadership deliverables are completed and reviewed.
 -Stakeholders can observe a successful end-to-end demonstration showing development, testing, deployment, and operation of the Evergreen Quote service.
 
-- 
-- 
+
+
