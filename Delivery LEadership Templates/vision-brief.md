@@ -5,13 +5,12 @@
 ## Product
 **Name:** Evergreen Quote API (Phase 3 service delivery)
 **Delivery week:** 3
-**Delivery Lead:** _your name (and pair, if any)_
+**Delivery Lead:** Yamini Dumpala
 **Engineering team (represented by):** _link to your Evergreen Quote project repo_
 **GitHub Project board:** _link_
 
 ## Who is the customer?
-_One paragraph. Be specific. Not "everyone"; name the segment, the moment, and the alternative they have today._
-
+_Evergreen Quote serves three primary customer groups.
 ## What pain does Evergreen Quote remove?
 _One paragraph. Name the pain in customer words, not product words. Phases 1 and 2 shipped a page that computes a number; what does a quote service that remembers change for the customer, and for partners?_
 
