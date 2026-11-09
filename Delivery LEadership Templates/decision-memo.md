@@ -2,9 +2,9 @@
 
 > Copy to `delivery-leadership-package/decision-memo.md`. Target length: ~250 words. Write for a non-technical reader. Name the options you **rejected**, not just the one you picked.
 
-**Date:**
+**Date:** November 9, 2026
 **Author:** Yamini Dumpala
-**Decision area:** _e.g., Day 2 scope tradeoff_
+**Decision area:** Day 2 scope tradeoff
 
 ## Context
 
