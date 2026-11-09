@@ -7,7 +7,7 @@ import { connectDB } from "./db.js";
 import { registerQuoteRoutes } from "./routes.js";
 // INSERT: GraphQL import (Day 2 - paste the line from the kit README here)
 import { mountGraphQL } from "./graphql.js";
-mountGraphQL(app);
+
 
 const app = express();
 const PORT = process.env.PORT || 3000;
