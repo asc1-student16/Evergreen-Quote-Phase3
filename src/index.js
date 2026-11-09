@@ -4,6 +4,8 @@
 import express from "express";
 import { connectDB } from "./db.js";
 // INSERT: route import (Day 2 - paste the line from the kit README here)
+import { registerQuoteRoutes } from "./routes.js";
+registerQuoteRoutes(app);
 // INSERT: GraphQL import (Day 2 - paste the line from the kit README here)
 
 const app = express();
