@@ -4,7 +4,7 @@
 
 ## Goal
 
-> _One sentence here._
+Build and successfully deploy the Evergreen Quote microservice, demonstrating a complete DevOps delivery pipeline from development through testing, containerization, CI/CD, and Kubernetes deployment while meeting all sponsor and leadership requirements.
 
 ## "Done" looks like
 
@@ -18,4 +18,14 @@
 
 ## Out of scope (this week)
 
-- _What you are intentionally not doing._
+-User authentication, authorization, and account management.
+-Advanced insurance rating algorithms beyond the sponsor-provided premium calculation logic.
+-Front-end redesign or development of a new customer-facing user interface.
+-Payment processing, policy issuance, or claims management functionality.
+-Multi-region deployments, high-availability architecture, and disaster recovery solutions.
+-Production-grade security hardening, penetration testing, and compliance certification.
+-Performance optimization for large-scale production workloads.
+-Monitoring, alerting, and observability platforms beyond basic deployment verification.
+-Integration with external insurance carrier systems or third-party services not included in the capstone requirements.
+-Migration of existing customer data from legacy systems.
+-Features or enhancements not defined in the Engineering Brief, Sponsor Decisions, or project backlog.
