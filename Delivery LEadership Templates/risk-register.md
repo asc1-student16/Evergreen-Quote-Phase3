@@ -4,12 +4,11 @@
 
 | # | Risk | Owner | Likelihood (L/M/H) | Impact (L/M/H) | Mitigation | Trigger to escalate |
 |---|---|---|---|---|---|---|
-| R1 | _e.g., the API returns tidy 201s while a number inside is wrong, so the demo "works" while a premium is broken_ | _name_ | M | H | _e.g., run `npm test` after every assembly step, not just before merge_ | _e.g., tests still red at 16:00 → hold the push, name it at check-in_ |
-| R2 |  |  |  |  |  |  |
-| R3 |  |  |  |  |  |  |
-| R4 |  |  |  |  |  |  |
-| R5 |  |  |  |  |  |  |
+| R1 |Much of the work is focused on APIs, validation, data handling and quote-generation but not accuracy of the calculations| Technical Lead| M | H | Validate output of the calculations | As soon as engineering team identifies the difference in the calculations|
+| R2 | Holiday in the middle of the project week so there is a possibility that decisions can be delayed| Delivery Lead| H | M |Try to complete and save project work as much as possible and look ahead of the time regarding what decisions are needed from everyone and get the output prior to holiday| Any items that spans the holidy|
+| R3 |Bad data| $0.35 quote is still in the database| Delivery lead | H |  M| Execute npm run seed before any showcase |Any showcase running before the resreset| R4 |Starter project copied incorrectly, some files are missing|  Delivery Lead|  M|  M|  Compare the project structure with the lab guide before first commit| Project files are missing from the lab folder |
+| R5 | Environment setup differs between team members| Delivery Lead | M |  H| Validate environment setup using the same documented steps and versions | Environment setup is causing difficulties in project delivery |
 
 ## How I'll use this register
 
-_One short paragraph. When will you re-read it? Who else can see it? What's the cadence?_
+I will reread it each day before commit. if any new risks are identified or older risks resolved based on the progress, I will update the log. This will help me to specifically call out what actually happened during the entire project start to complete.
