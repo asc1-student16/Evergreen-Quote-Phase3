@@ -1,4 +1,4 @@
-# Decision Memo: _short title here_
+# Decision Memo: Renters coverage Rejected for this week
 
 > Copy to `delivery-leadership-package/decision-memo.md`. Target length: ~250 words. Write for a non-technical reader. Name the options you **rejected**, not just the one you picked.
 
