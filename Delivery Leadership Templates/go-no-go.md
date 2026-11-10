@@ -18,8 +18,8 @@
 
 ## What "NO-GO" would mean
 
-- Hold the merge until: _condition_.
-- Owner of that condition: _name_.
+- Hold the merge until: main is green and engineering team confirms what is deployed and how the hotfix reached them
+- Owner of that condition: Engineering Lead
 - Re-evaluate at: November 12, 2026
 
 ## My call
