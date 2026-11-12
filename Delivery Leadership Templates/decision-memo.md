@@ -10,6 +10,8 @@
 
 I have not completed any optional work that are mentioned so that I can be on track with my tasks that need to be completed. I  have also made inject #1 request out of scope. Stakeholder is saying it is just one more drop down. It is a drop down but implementing the functionality of the drop down needs lot of work.
 
+ Holding the code merge to main until Thursday as the main is red. This will allow us to get the external dependency status and make the decision of go or no-go
+
 ## Options considered
 
 1. **Option A: _name_.** No scope creep. Want to provide high quality deliverable rather than rushing with what ever stakeholder requested.
