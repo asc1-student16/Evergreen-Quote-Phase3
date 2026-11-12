@@ -74,13 +74,14 @@ https://github.com/asc1-student16/Evergreen-Quote-Phase3/actions/runs/4285843502
 ## Slide 4: Risks & injects
 
 - Top risk we tracked: _from risk-register.md._
-- Inject #1 (Tue): _what landed, how we re-prioritized._
-- Inject #2 (Wed): _what landed, what we did, the go/no-go call._
+- Inject #1 (Tue): A renters request from the stakeholders which will impact the scope of the project delivery and lot of integration, data points need to be implemented. This will impact the quality of the project if becomes in scope for the project. The scope change has been deferred to next sprint.
+
+- Inject #2 (Wed):The main is red which impacted the delivery of the project. The decision is made as a "No-Go"
 
 ## Slide 5: What I'd do differently next round
 
-- 
-- 
+- I have not added a delivery branch and instead, I have updated my code directly into the main branch. This is very risky. In the real world where multiple team members are using the code, integrating their code with mine, this is not a suitable solution. For next round, I will definetly push the code to the delivery lead branch and then open PR & merge to the main branch.
+- Check all the environments for their dependencies before each step.I have missed few dependencies which caused issues that took some time for me to understand the root cause of the issue.
 
 ## Q&A prep: likely questions
 
