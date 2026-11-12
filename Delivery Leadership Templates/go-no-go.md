@@ -3,7 +3,7 @@
 > Copy to `delivery-leadership-package/go-no-go.md`. Make this call **from** the CI result, not in spite of it.
 
 **Date / time:**
-**Decision:** GO WITH CONDITIONS
+**Decision:** NO-GO
 
 ## CI evidence
 
@@ -23,4 +23,5 @@
 - Re-evaluate at: November 12, 2026
 
 ## My call
-My branch is green and does not has any hotfix. I do not want to merge into red main. If the main becomes green again on Thursday based on what engineering team fixes and how the hotfix got there. If the main is still red by mid of Thursday and the problem also touches my branch then it is a no-go
+My branch is green and does not has any hotfix. I do not want to merge into red main. If the main becomes green again on Thursday based on what engineering team fixes and how the hotfix got there. If the main is still red by mid of Thursday and the problem also touches my branch then it is a no-go. 
+Checked Thursday again with engineering team and they did not fix the problem and still the main branch is red. I do not want to merge my code to main so i have changed my decision to No-go
