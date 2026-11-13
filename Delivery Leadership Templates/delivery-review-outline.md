@@ -51,7 +51,6 @@ Handling connection for 8080
 Handling connection for 8080
 Handling connection for 8080
 Handling connection for 8080
-"C:\Users\n0254864\OneDrive - Liberty Mutual\Documents\Company Docs\Phase 3 Capstone\Outcome1.png"
 
 labadmin@ip-172-16-181-183:~$ curl localhost:8080/api/quotes
 []labadmin@ip-172-16-181-183:~curl -X POST localhost:8080/api/quote \ \
